@@ -1,16 +1,8 @@
-# Hi there 👋, I'm Mohamed Ganady  
+<h1 align="center">👋 Welcome to My Profile</h1>
 
-😎 I'm a Software Robotics Engineer passionate about:  
-- 🤖 Robotics & ROS2  
-- 🚀 Autonomous Mobile Robots (AMR)  
-- 🐍 Python & C++  
-
-## 📊 GitHub Stats
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohamedganady&show_icons=true&theme=tokyonight)
-
-## 💻 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+<marquee behavior="scroll" direction="left" scrollamount="5">
+😎 I`m a Software Robotics Engineer, passionate about robotics, particularly the Robot Operating System (ROS), 
+and I have a keen interest in Autonomous Mobile Robotics (AMR). 🚀 
+Eager to merge my love for learning with my proficient software development skills, 
+my goal is to contribute to the ongoing progress of AMR technology for the greater good of society.
+</marquee>
