@@ -17,17 +17,16 @@
 
 ### 🌐 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/mohamed-mostafa-950473204/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:YOURMAIL@gmail.com" target="_blank">
+  <a href="mailto:mohamedganady155@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
   <a href="https://github.com/mohamedganady" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
-
 
 ## 💻 Tech Stack
 
